@@ -20,7 +20,7 @@ elif opt=="m" or opt=="M":
 elif opt=="q" or opt=="Q":
     c=a/b
     print(c)
-elif opt=="r" or opt=="R";
+elif opt=="r" or opt=="R":
     c=a%b
     print(c)
 else:
