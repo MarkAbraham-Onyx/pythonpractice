@@ -33,6 +33,7 @@ def calc(a,b):
         calc(a,b)
     elif ans=="n" or ans=="N":
         print("Thank you for using the calculator")
+        return
     else:    
         print("Invalid input")
 
