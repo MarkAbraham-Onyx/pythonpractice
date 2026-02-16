@@ -38,4 +38,4 @@ def calc(a,b):
 
 calc(a,b)
 
-//end of code 
+# End of code 
