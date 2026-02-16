@@ -25,3 +25,4 @@ elif opt=="r" or opt=="R":
     print(c)
 else:
     print("Invalid input")
+    
