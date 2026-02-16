@@ -46,6 +46,7 @@ if ans=="y" or ans=="Y":
     calc(a,b)
 elif ans=="n" or ans=="N":
     print("Thank you for using the calculator")
+    break
 else:    
     print("Invalid input")
 
